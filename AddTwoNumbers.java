@@ -3,7 +3,7 @@
 Write logic in comments
 Handle basic edge cases
 Use proper variable names
-Commit code with message: **/ 
+Commit code with message: **/  
 
 package codepractice;
     
