@@ -3,7 +3,7 @@
 // write the unit test cases 
 
 package codepractice;
-
+    
 import java.util.Scanner;  
 
 public class AddTwoNumbers {
