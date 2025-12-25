@@ -1,6 +1,9 @@
 
-// add comments to the code including logic of the program
-// write the unit test cases 
+/**For Each Problem:
+Write logic in comments
+Handle basic edge cases
+Use proper variable names
+Commit code with message: **/ 
 
 package codepractice;
     
@@ -23,3 +26,8 @@ public class AddTwoNumbers {
 	}
 
 }
+
+// add comments to the code including logic of the program
+// write the unit test cases 
+
+
