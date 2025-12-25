@@ -1,3 +1,7 @@
+
+// add comments to the code including logic of the program
+// write the unit test cases 
+
 package codepractice;
 
 import java.util.Scanner;
