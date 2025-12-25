@@ -1,6 +1,13 @@
-package codepractice;
 
-import java.util.Scanner;
+/**For Each Problem:
+Write logic in comments
+Handle basic edge cases
+Use proper variable names
+Commit code with message: **/  
+
+package codepractice;
+    
+import java.util.Scanner;    
 
 public class AddTwoNumbers {
 
@@ -19,3 +26,8 @@ public class AddTwoNumbers {
 	}
 
 }
+
+// add comments to the code including logic of the program
+// write the unit test cases 
+
+
