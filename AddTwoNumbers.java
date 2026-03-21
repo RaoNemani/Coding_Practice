@@ -11,6 +11,7 @@ public class AddTwoNumbers {
 		int b = scan.nextInt();
 		try {
 			System.out.println(a+b);  // sum of the variables
+ 
 			
 		}catch (Exception e) {
 			System.out.println(e);
